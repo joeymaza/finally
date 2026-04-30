@@ -1,0 +1,5 @@
+{
+    "name": "independent-reviewer",
+    "description": "A plugin that carries out an independent review of all changes since last commit.",
+    "version": "1.0.0"
+}
